@@ -4,7 +4,7 @@
     "description": "Demo project",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Running tests...\" && exit0"
+        "test": "echo \"Running tests...\" && exit 0"
     },
     "keywords": [],
     "author": "",
